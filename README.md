@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/logo.jpg" alt="Stacks Logo" title="Stacks" width="215" height="60" />
+    <img src="assets/logo.jpg" alt="Stacks Logo" title="Stacks" width="215" height="81" />
 </p>
 
 # Stacks Translations
