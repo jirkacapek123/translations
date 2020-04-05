@@ -1,0 +1,14 @@
+{
+    "common": {
+        "yes": "Si",
+        "no": "No"
+    },
+    "board": {},
+    "stacks": {},
+    "tasks": {},
+    "preferences": {
+        "sections": {
+            "general": "Generale"
+        }
+    }
+}
