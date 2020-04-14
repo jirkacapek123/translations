@@ -39,7 +39,9 @@
         "count-box-archived": "Archived",
         "total-estimates": "Total Etimates",
         "total-spent": "Total Spent",
-        "total-remaining": "Total Remaining"
+        "total-remaining": "Total Remaining",
+        "no-data-report": "There is not enough data to render this report",
+        "no-tags-report": "This board does not have any tags"
     },
     "stacks": {
         "add-new-task": "Add a new task",
