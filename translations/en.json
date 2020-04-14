@@ -6,7 +6,9 @@
         "delete": "Delete",
         "edit": "Edit",
         "select": "Select",
-        "save": "Save"
+        "save": "Save",
+        "remaining": "Remaining",
+        "spent": "Spent"
     },
     "app": {
         "search": "Search task..."
@@ -23,7 +25,21 @@
         "load-demo-message": "It looks like it's the first time you started the app, would you like to add some demo content that shows all the features?",
         "add-board-here": "Add your first board here",
         "query-not-found": "Ooops, nothing found matching your query",
-        "delete-tag-message": "Are you sure you want to delete this tag? You will also lose any refference in tasks were it was assigned."
+        "delete-tag-message": "Are you sure you want to delete this tag? You will also lose any refference in tasks were it was assigned.",
+        "board-overview": "Board Overview",
+        "estimates-overview": "Estimates Overview",
+        "tasks-overview": "Tasks Overview",
+        "stacks-overview": "Stacks Overview",
+        "tags-overview": "Tags Overview",
+        "count-box-total": "Total",
+        "count-box-idle": "Idle",
+        "count-box-doing": "Doing",
+        "count-box-done": "Done",
+        "count-box-overdue": "Overdue",
+        "count-box-archived": "Archived",
+        "total-estimates": "Total Etimates",
+        "total-spent": "Total Spent",
+        "total-remaining": "Total Remaining"
     },
     "stacks": {
         "add-new-task": "Add a new task",
@@ -106,7 +122,14 @@
         "add-time-spent": "Add time spent",
         "add-estimated-time": "Add estimated time",
         "estimated-time": "Estimated time",
-        "set-progress": "Set task progress"
+        "set-progress": "Set task progress",
+        "progress-idle": "Idle",
+        "progress-analisys": "Analisys",
+        "progress-doing": "Doing",
+        "progress-finalizing": "Finalizing",
+        "progress-done": "Done",
+        "untitled-task": "Untitled task",
+        "edit-task": "Edit task"
     },
     "preferences": {
         "title": "Preferences",
@@ -134,7 +157,10 @@
         "search": "Search",
         "toggle-sidebar": "Toggle sidebar",
         "import": "Import",
-        "export": "Export"
+        "export": "Export",
+        "toggleOverview": "Toggle Overview",
+        "toggleCalendar": "Toggle Calendar",
+        "toggleMap": "Toggle Map View"
     },
     "warnings": {
         "WRN-BOARD-ATTACH-EXISTS": "An attachment with this name already exists for this task.",
