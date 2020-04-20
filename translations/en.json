@@ -41,7 +41,8 @@
         "total-spent": "Total Spent",
         "total-remaining": "Total Remaining",
         "no-data-report": "There is not enough data to render this report",
-        "no-tags-report": "This board does not have any tags"
+        "no-tags-report": "This board does not have any tags",
+        "no-update-needed": "No update available. You're already using the latest version."
     },
     "stacks": {
         "add-new-task": "Add a new task",
@@ -149,7 +150,9 @@
         "section-locale": "Locale",
         "enable-markdown": "Enable Markdown text conversion",
         "fix-stack-height": "Fix stack height",
-        "show-task-progress": "Show task progress"
+        "show-task-progress": "Show task progress",
+        "show-verbose-estimates": "Show verbose estimates",
+        "show-edit-button": "Show edit button"
     },
     "menu": {
         "check-updates": "Check for updates...",

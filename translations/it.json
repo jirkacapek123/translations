@@ -41,7 +41,8 @@
         "total-spent": "Totali Consumate",
         "total-remaining": "Totale Rimanente",
         "no-data-report": "Non ci sono abbastanza dati per presentare questo report",
-        "no-tags-report": "Questa board non ha nessun tag"
+        "no-tags-report": "Questa board non ha nessun tag",
+        "no-update-needed": "Nessun aggiornamento disponibile. Stai già utilizzando l'ultima versione."
     },
     "stacks": {
         "add-new-task": "Aggiungi un nuovo task",
@@ -149,7 +150,9 @@
         "section-locale": "Locale",
         "enable-markdown": "Abilita la conversione del testo Markdown",
         "fix-stack-height": "Fissa altezza stack",
-        "show-task-progress": "Mostra avanzamento task"
+        "show-task-progress": "Mostra avanzamento task",
+        "show-verbose-estimates": "Mostra stime dettagliate",
+        "show-edit-button": "Mostra pulsante modifica"
     },
     "menu": {
         "check-updates": "Controlla aggiornamento...",
