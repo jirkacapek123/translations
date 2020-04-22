@@ -1,0 +1,326 @@
+{
+    "title": "Welcome to Stacks",
+    "id": "welcome",
+    "stacks": [
+        {
+            "title": "To do",
+            "id": "63c9ce0a-083d-42e6-884e-92c6f10761fd",
+            "tasks": [
+                {
+                    "title": "Double click to edit a *task*",
+                    "content": "",
+                    "id": "b31d117e-2467-465a-a472-be47335c4fcf",
+                    "created": "2020-03-13T12:34:15.768Z",
+                    "updated": "2020-03-15T22:00:40.439Z",
+                    "archived": "",
+                    "done": false
+                },
+                {
+                    "title": "Drag and Drop to move a task between stacks",
+                    "content": "",
+                    "id": "af778799-67e4-43fb-aa01-1b4a5d2cd362",
+                    "created": "2020-03-13T12:34:26.563Z",
+                    "updated": "2020-03-13T12:34:30.146Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Colored tagging system - *Style 1*",
+                    "content": "",
+                    "id": "5917ac62-3cf8-4bbd-a441-2f22bc534b54",
+                    "created": "2020-03-13T12:34:54.563Z",
+                    "updated": "2020-03-14T22:28:01.279Z",
+                    "archived": "",
+                    "tags": [
+                        "bugs",
+                        "doing",
+                        "high-priority",
+                        "info-missing",
+                        "idle",
+                        "on-hold",
+                        "complete"
+                    ]
+                },
+                {
+                    "title": "Mark task as done :check_mark_button:",
+                    "content": "",
+                    "id": "78952e36-216d-43e3-be13-11d29ab55209",
+                    "created": "2020-03-13T13:06:16.528Z",
+                    "updated": "2020-03-31T07:02:37.960Z",
+                    "archived": "",
+                    "done": true
+                },
+                {
+                    "title": "Write your task using *markdown* and ::highlight:: everything that's *important* so you don't /forget/. There also _underline_ so you can emphasize the important things or -strike- out everything that's already *complete*. Almost forgot to mention, you can also enter links [Stacks](http://stacks.rocks) and {code blocks} ",
+                    "content": "",
+                    "id": "42cc50e9-def1-44f6-808b-3aa3126b16e2",
+                    "created": "2020-03-14T20:33:03.266Z",
+                    "updated": "2020-03-14T23:10:54.132Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Tasks support all your favorite emojis  :smiling_face_with_sunglasses:. Checkout the Emoji Cheatsheet in the *View* menu of just paste one directly",
+                    "content": "",
+                    "id": "da5c6a14-9bbb-4216-81cd-d1b69dfc6828",
+                    "created": "2020-03-14T20:19:02.459Z",
+                    "updated": "2020-04-16T10:41:58.720Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Set a due date for your tasks :alarm_clock:",
+                    "content": "",
+                    "id": "16ed2a6b-c967-45af-ad9c-56d27bfb1bab",
+                    "created": "2020-03-13T13:07:37.278Z",
+                    "updated": "2020-03-31T07:00:12.668Z",
+                    "archived": "",
+                    "duedate": "2025-11-17T00:00:00.000Z"
+                },
+                {
+                    "title": "But make sure you don't let your tasks expire :exclamation_mark:",
+                    "content": "",
+                    "id": "fdd7b158-340f-42dd-9240-78f2c3026543",
+                    "created": "2020-03-13T16:34:57.899Z",
+                    "updated": "2020-03-31T06:59:14.519Z",
+                    "archived": "",
+                    "duedate": "2020-03-07T23:00:00.000Z",
+                    "tags": ["bugs"]
+                }
+            ]
+        },
+        {
+            "title": "Doing",
+            "id": "2d147048-55db-4a0a-b1e6-f5ad508eb817",
+            "tasks": [
+                {
+                    "title": "Are you working in the dark :crescent_moon:? Turn on *Dark Mode* from the /preferences/ for a great viewing experience especially in low-light environments :new_moon_face:.",
+                    "content": "",
+                    "id": "cac279ce-b85e-4d54-b128-187dc9723c48",
+                    "created": "2020-04-01T07:38:46.717Z",
+                    "updated": "2020-04-01T07:44:34.734Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Enable task progress :hundred_points: from Preferences to view the overall state of the current stack state",
+                    "content": "",
+                    "id": "b498fab7-6f54-4405-a197-a31c11c0ff28",
+                    "created": "2020-03-15T19:46:58.599Z",
+                    "updated": "2020-03-31T06:58:32.190Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Colored tagging system - *Style 2*",
+                    "content": "",
+                    "id": "ef4bb345-1b0c-457e-b881-424ae6098acf",
+                    "created": "2020-03-13T13:06:42.306Z",
+                    "updated": "2020-03-14T22:28:12.388Z",
+                    "archived": "",
+                    "tags": [
+                        "bugs",
+                        "doing",
+                        "high-priority",
+                        "info-missing",
+                        "idle",
+                        "on-hold",
+                        "complete"
+                    ],
+                    "altTags": true
+                },
+                {
+                    "title": "You can also add *attachments* to your tasks :paperclip:",
+                    "content": "",
+                    "id": "task-with-attachments",
+                    "created": "2020-03-13T13:07:16.026Z",
+                    "updated": "2020-03-31T07:01:48.962Z",
+                    "archived": "",
+                    "info": [
+                        {
+                            "id": "31cad79b-d2ba-4c7d-ab1a-e0a565fd5cf5",
+                            "items": [
+                                {
+                                    "title": "document.txt",
+                                    "content": "document.txt",
+                                    "extension": "txt",
+                                    "date": "2020-03-15T21:25:06.718Z",
+                                    "size": 9783,
+                                    "type": "file"
+                                }
+                            ],
+                            "type": "attachments"
+                        }
+                    ]
+                },
+                {
+                    "title": "*Sync* your library over *DropBox*, *iCloud Drive* or any file syncing service :cloud:",
+                    "content": "",
+                    "id": "cloud",
+                    "created": "2020-03-13T13:07:02.840Z",
+                    "updated": "2020-03-31T07:01:16.848Z",
+                    "archived": "",
+                    "tags": ["on-hold"],
+                    "cover": true
+                },
+                {
+                    "title": "You need to add a wider description, no problem Stacks got you covered. Double click the task and fill the *Description* field :winking_face:",
+                    "content": "Lorem ipsum dolor sit amet, an enim persius molestiae sea, quo ut tation tacimates interesset, vel sumo numquam ne. Quo ut probo errem veniam, ius te causae gloriatur. Vis ea prima prompta quaerendum, dico propriae an ius, an lucilius repudiare sed. Quod unum pri no, vis delectus definitiones ei, meis tincidunt ne qui.\n\nDolor veniam molestiae pro an, ea omnesque postulant partiendo eum. Essent facilis cum ne, at mel luptatum sententiae efficiendi. Mea ludus labores an, mundi evertitur ea cum. Ne nec augue movet torquatos, no iudicabit adolescens quo.",
+                    "id": "75bee757-4edf-4102-9cae-8819d546d43e",
+                    "created": "2020-03-15T21:42:44.261Z",
+                    "updated": "2020-03-31T07:00:30.899Z",
+                    "archived": ""
+                }
+            ]
+        },
+        {
+            "title": "Done",
+            "id": "75c983e2-9a63-44be-bfc8-c5787f05c08e",
+            "tasks": [
+                {
+                    "title": "Track time spent working on your tasks by setting an estimated period :stopwatch:",
+                    "content": "",
+                    "id": "125de40b-d84b-40bf-a36d-7ae6767ea7e2",
+                    "created": "2020-03-18T22:22:31.266Z",
+                    "updated": "2020-03-31T07:02:02.763Z",
+                    "archived": "",
+                    "estimate": "2d 4h",
+                    "spent": "1d 2h 10m"
+                },
+                {
+                    "title": "Change the tasks status to either *Done* or *Archived* by double clicking it and selecting one of the options from the lower right corner :gear:",
+                    "content": "",
+                    "id": "49d393d5-3ea7-4d77-97f8-8e0b9c8dbecb",
+                    "created": "2020-03-15T21:51:10.766Z",
+                    "updated": "2020-03-15T21:53:03.467Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Trip to Yosemite with my friends :camping:",
+                    "content": "",
+                    "id": "yosemite",
+                    "created": "2020-03-15T21:49:55.554Z",
+                    "updated": "2020-03-31T07:00:58.005Z",
+                    "archived": "",
+                    "tags": ["complete"],
+                    "cover": true
+                },
+                {
+                    "title": "Create unlimited *Boards*, *Stacks* and *Tasks*",
+                    "content": "",
+                    "id": "fe0f2a0b-a5c7-4542-9c8c-18421769ff47",
+                    "created": "2020-03-13T13:08:34.134Z",
+                    "updated": "2020-03-15T19:36:36.718Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Do you have any *Confidential* content you dont want prying eyes to see #Your super secret goes here#? Use the custom confidential markdown syntax to hide your secrets :smiling_face_with_horns:",
+                    "content": "",
+                    "id": "ef87ec80-fcb4-46ee-8fc7-757d411d1a00",
+                    "created": "2020-04-15T15:20:06.401Z",
+                    "updated": "2020-04-16T10:42:24.119Z",
+                    "archived": ""
+                },
+                {
+                    "title": "Add a map widget by entering an address or location :globe_showing_americas:",
+                    "content": "",
+                    "id": "8cc1c611-cabc-4a14-89b7-0f09731806ff",
+                    "created": "2020-03-13T13:08:41.429Z",
+                    "updated": "2020-03-31T07:03:08.408Z",
+                    "archived": "",
+                    "info": [
+                        {
+                            "id": "915d3d93-dcf3-40b1-a1f3-649a3bcca055",
+                            "type": "location",
+                            "title": "New York City",
+                            "center": [40.7127281, -74.0060152],
+                            "markers": [[40.7127281, -74.0060152]],
+                            "zoom": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "*Automatic library backup* once every 5, 10, 20, 30 and 60 *minutes*",
+                    "content": "",
+                    "id": "c87f7a90-2814-4553-b54e-775c37d9ceb8",
+                    "created": "2020-03-13T13:09:07.109Z",
+                    "updated": "2020-03-14T22:27:07.216Z",
+                    "archived": ""
+                }
+            ]
+        }
+    ],
+    "archived": [
+        {
+            "title": "Aere cinxit sua levitate tractu margine. Lumina corpora montes carmen? Semina tellus invasit ignotas. Siccis spisso fabricator semina ad metusque deducite.",
+            "content": "",
+            "id": "f5bb63bc-ecc0-44b3-836b-87b2179b45c6",
+            "created": "2020-03-13T16:50:31.674Z",
+            "updated": "2020-03-13T16:51:30.404Z",
+            "archived": "2020-03-13T16:51:34.823Z",
+            "info": [
+                {
+                    "id": "a7ef0e2b-43ba-4969-92b8-120afc26ac4e",
+                    "title": "Lumina corpora montes carmen",
+                    "items": [
+                        {
+                            "id": "5bf44e44-44e1-464a-a9ca-24ff27159f05",
+                            "content": "Semina tellus invasit ignotas",
+                            "complete": true
+                        },
+                        {
+                            "id": "6e2aa17c-d388-41f9-9b56-7073fe42c4d7",
+                            "content": "Bene iussit effervescere iners animalibus",
+                            "complete": true
+                        },
+                        {
+                            "id": "bc5a0569-eefd-428d-be0e-826f91c6c477",
+                            "content": " Fabricator orba mixta moderantum",
+                            "complete": false
+                        }
+                    ],
+                    "showComplete": true,
+                    "type": "checklist"
+                }
+            ]
+        },
+        {
+            "title": "Aere tepescunt sidera diu. Fabricator orba mixta moderantum forma fixo et terris.",
+            "content": "Aere cinxit sua levitate tractu margine. Lumina corpora montes carmen? Semina tellus invasit ignotas. Siccis spisso fabricator semina ad metusque deducite.",
+            "id": "c97da712-e3c4-4e5f-847b-6e5bf239c291",
+            "created": "2020-03-13T16:48:27.983Z",
+            "updated": "2020-03-13T16:48:54.864Z",
+            "archived": "2020-03-13T16:49:02.797Z",
+            "duedate": "2020-03-09T23:00:00.000Z",
+            "info": [
+                {
+                    "id": "7dd182fd-3c60-47d4-ba86-c59d668285c7",
+                    "items": [
+                        {
+                            "title": "Google",
+                            "content": "http://google.com",
+                            "date": "2020-03-13T16:48:54.864Z",
+                            "extension": "url",
+                            "type": "link"
+                        }
+                    ],
+                    "type": "attachments"
+                }
+            ]
+        },
+        {
+            "title": "Bene iussit effervescere iners animalibus secant alta! Orba caesa liberioris inminet coeperunt.",
+            "content": "",
+            "id": "e4bc51b6-ff66-4b53-a41e-32156bb5df6c",
+            "created": "2020-03-13T16:44:46.472Z",
+            "updated": "2020-03-13T16:45:05.055Z",
+            "archived": "2020-03-13T16:45:23.725Z",
+            "tags": ["high-priority", "on-hold"]
+        }
+    ],
+    "tags": [
+        { "id": "bugs", "title": "Bugs", "color": "#FF6C35" },
+        { "id": "doing", "title": "Doing", "color": "#92D632" },
+        { "id": "high-priority", "title": "High Priority", "color": "#FFDC00" },
+        { "id": "info-missing", "title": "Missing Info", "color": "#FF9C00" },
+        { "id": "idle", "title": "Idle", "color": "#B7C3C8" },
+        { "id": "on-hold", "title": "On Hold", "color": "#32BAF5" },
+        { "id": "complete", "title": "Complete", "color": "#00E6B2" }
+    ],
+    "archivedOrder": "archived-desc"
+}
