@@ -2,7 +2,7 @@
     "common": {
         "yes": "Да",
         "no": "Нет",
-        "bottom": "Низ",
+        "bottom": "Снизу",
         "delete": "Удалить",
         "edit": "Редактировать",
         "select": "Выбрать",
@@ -18,7 +18,8 @@
         "menu-duplicate-board": "Дублировать доску",
         "menu-delete-board": "Удалить доску...",
         "delete-board-message": "Вы уверены, что хотите удалить эту доску? Все колонки и задачи будут также удалены! Это действие не может быть отменено!",
-        "duplicate-board-message": "Вы уверены, что хотите дублировать доску?"
+        "duplicate-board-message": "Вы уверены, что хотите дублировать доску?",
+        "add-new-board": "Добавить новую доску"
     },
     "board": {
         "untitled-board": "Безымянная доска",
@@ -86,7 +87,7 @@
         "delete-task": "Удалить задачу...",
         "set-due-date": "Выбрать срок выполнения",
         "add-cover": "Добавить обложку",
-        "add-checklist": "Добавить чек-лист",
+        "add-checklist": "Добавить список",
         "add-attachments": "Добавить вложения",
         "add-location": "Добавить местоположение",
         "mark-done": "Отметить как выполнено",
@@ -95,13 +96,13 @@
         "datepicker-today": "Сегодня",
         "datepicker-clear": "Очистить",
         "datepicker-tomorrow": "Завтра",
-        "datepicker-one-week": "Через неделю",
+        "datepicker-one-week": "Через месяц",
         "datepicker-two-week": "Через две недели",
         "datepicker-one-month": "Через назад",
         "datepicker-two-month": "Через два месяца",
         "info-delete-msg": "Вы уверены, что хотите удалить этот виджет? Это действие не может быть отменено!",
         "info-delete-btn": "Да, удалить виджет",
-        "info-checklist-untitled-checklist": "Безымянный чек-лист",
+        "info-checklist-untitled-checklist": "Безымянный список",
         "info-checklist-untitled-subtask": "Безымянная подзадача",
         "info-checklist-hide-complete": "Скрыть завершённые подзадачи",
         "info-checklist-show-complete": "Показать завершённые задачи (%{count})",
@@ -126,13 +127,14 @@
         "add-estimated-time": "Добавить оставшееся время",
         "estimated-time": "Оставшееся время",
         "set-progress": "Установить прогресс по задаче",
-        "progress-idle": "Простаивающие",
+        "progress-idle": "Простаивающая",
         "progress-analisys": "Анализ",
         "progress-doing": "Выполнение",
         "progress-finalizing": "Завершение",
         "progress-done": "Выполнено",
         "untitled-task": "Безымянная задача",
-        "edit-task": "Редактировать задачу"
+        "edit-task": "Редактировать задачу",
+        "alt-tags": "Альтернативный стиль тегов"
     },
     "preferences": {
         "title": "Настройки",
@@ -152,7 +154,9 @@
         "fix-stack-height": "Фиксированная высота колонки",
         "show-task-progress": "Показывать прогресс задачи",
         "show-verbose-estimates": "Показывать сроки более подробно",
-        "show-edit-button": "Показывать кнопку редактирования"
+        "show-edit-button": "Показывать кнопку редактирования",
+        "default-tags-style": "Стиль тегов",
+        "dark-mode": "Ночной режим"
     },
     "menu": {
         "check-updates": "Проверить обновления...",
@@ -165,7 +169,15 @@
         "export": "Экспорт",
         "toggleOverview": "Обзор",
         "toggleCalendar": "Календарь",
-        "toggleMap": "Карта"
+        "toggleMap": "Карта",
+        "file": "Файл",
+        "edit": "Правка",
+        "view": "Вид",
+        "boards": "Доски",
+        "window": "Окно",
+        "help": "Справка",
+        "emojis": "Emojis",
+        "markdownCheatsheet": "Markdown Cheatsheet"
     },
     "warnings": {
         "WRN-BOARD-ATTACH-EXISTS": "Вложение с таким именем уже есть в этой задаче.",

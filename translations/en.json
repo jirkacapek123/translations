@@ -18,7 +18,8 @@
         "menu-duplicate-board": "Duplicate board",
         "menu-delete-board": "Delete board...",
         "delete-board-message": "Are you sure you want to delete this board? All stacks and tasks will also be deleted! This action cannot be undone!",
-        "duplicate-board-message": "Are you sure you want to duplicate this board?"
+        "duplicate-board-message": "Are you sure you want to duplicate this board?",
+        "add-new-board": "Add a new board"
     },
     "board": {
         "untitled-board": "Untitled board",
@@ -132,7 +133,8 @@
         "progress-finalizing": "Finalizing",
         "progress-done": "Done",
         "untitled-task": "Untitled task",
-        "edit-task": "Edit task"
+        "edit-task": "Edit task",
+        "alt-tags": "Alternative tags style"
     },
     "preferences": {
         "title": "Preferences",
@@ -152,7 +154,9 @@
         "fix-stack-height": "Fix stack height",
         "show-task-progress": "Show task progress",
         "show-verbose-estimates": "Show verbose estimates",
-        "show-edit-button": "Show edit button"
+        "show-edit-button": "Show edit button",
+        "default-tags-style": "Default tags style",
+        "dark-mode": "Dark mode"
     },
     "menu": {
         "check-updates": "Check for updates...",
@@ -165,7 +169,15 @@
         "export": "Export",
         "toggleOverview": "Toggle Overview",
         "toggleCalendar": "Toggle Calendar",
-        "toggleMap": "Toggle Map View"
+        "toggleMap": "Toggle Map View",
+        "file": "File",
+        "edit": "Edit",
+        "view": "View",
+        "boards": "Boards",
+        "window": "Window",
+        "help": "Help",
+        "emojis": "Emojis",
+        "markdownCheatsheet": "Markdown Cheatsheet"
     },
     "warnings": {
         "WRN-BOARD-ATTACH-EXISTS": "An attachment with this name already exists for this task.",
