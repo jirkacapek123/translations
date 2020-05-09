@@ -31,13 +31,13 @@
                     "updated": "2020-03-14T22:28:01.279Z",
                     "archived": "",
                     "tags": [
-                        "fehler",
-                        "aktiv",
-                        "wichtig",
-                        "info-fehlend",
-                        "pausiert",
-                        "wartend",
-                        "erledigt"
+                        "bugs",
+                        "doing",
+                        "high-priority",
+                        "info-missing",
+                        "idle",
+                        "on-hold",
+                        "complete"
                     ]
                 },
                 {
@@ -58,7 +58,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Tasks support all your favorite emojis  :smiling_face_with_sunglasses:. Checkout the Emoji Cheatsheet in the *View* menu of just paste one directly",
+                    "title": "Aufgaben unterstützen alle deinen favorisierten Emojis  :smiling_face_with_sunglasses:. Schau Dir den Emoji Spickzettel im *Fenster* Menü an oder füge eines direkt ein.",
                     "content": "",
                     "id": "da5c6a14-9bbb-4216-81cd-d1b69dfc6828",
                     "created": "2020-03-14T20:19:02.459Z",
@@ -66,7 +66,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Set a due date for your tasks :alarm_clock:",
+                    "title": "Vergib ein Fälligkeitsdatum für deine Aufgaben :alarm_clock:",
                     "content": "",
                     "id": "16ed2a6b-c967-45af-ad9c-56d27bfb1bab",
                     "created": "2020-03-13T13:07:37.278Z",
@@ -75,7 +75,7 @@
                     "duedate": "2025-11-17T00:00:00.000Z"
                 },
                 {
-                    "title": "But make sure you don't let your tasks expire :exclamation_mark:",
+                    "title": "Stell sicher, dass deine Aufgaben nicht ablaufen :exclamation_mark:",
                     "content": "",
                     "id": "fdd7b158-340f-42dd-9240-78f2c3026543",
                     "created": "2020-03-13T16:34:57.899Z",
@@ -91,7 +91,7 @@
             "id": "2d147048-55db-4a0a-b1e6-f5ad508eb817",
             "tasks": [
                 {
-                    "title": "Are you working in the dark :crescent_moon:? Turn on *Dark Mode* from the /preferences/ for a great viewing experience especially in low-light environments :new_moon_face:.",
+                    "title": "Arbeitest Du nachts :crescent_moon:? Schaltet den *Dunkel Modus* in den /Einstellungen/ ein für hervorragende Sichtbarkeit speziell in lichtarmen Umgebungen :new_moon_face:.",
                     "content": "",
                     "id": "cac279ce-b85e-4d54-b128-187dc9723c48",
                     "created": "2020-04-01T07:38:46.717Z",
@@ -99,7 +99,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Enable task progress :hundred_points: from Preferences to view the overall state of the current stack state",
+                    "title": "Aktiviere den Aufgabenfortschritt :hundred_points: in den Einstellungen um den Gesamtstatus des aktuellen Stacks zu sehen",
                     "content": "",
                     "id": "b498fab7-6f54-4405-a197-a31c11c0ff28",
                     "created": "2020-03-15T19:46:58.599Z",
@@ -107,7 +107,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Colored tagging system - *Style 2*",
+                    "title": "Farbiges Schlagwort System - *Stil 2*",
                     "content": "",
                     "id": "ef4bb345-1b0c-457e-b881-424ae6098acf",
                     "created": "2020-03-13T13:06:42.306Z",
@@ -125,7 +125,7 @@
                     "altTags": true
                 },
                 {
-                    "title": "You can also add *attachments* to your tasks :paperclip:",
+                    "title": "Du kannst auch *Anhänge* zu deinen Aufgaben :paperclip: hinzufügen",
                     "content": "",
                     "id": "task-with-attachments",
                     "created": "2020-03-13T13:07:16.026Z",
@@ -149,7 +149,7 @@
                     ]
                 },
                 {
-                    "title": "*Sync* your library over *DropBox*, *iCloud Drive* or any file syncing service :cloud:",
+                    "title": "*Synchronisiere* deine Bibliothek mit *DropBox*, *iCloud Drive* oder irgendeinen anderen Dienst :cloud:",
                     "content": "",
                     "id": "cloud",
                     "created": "2020-03-13T13:07:02.840Z",
@@ -159,7 +159,7 @@
                     "cover": true
                 },
                 {
-                    "title": "You need to add a wider description, no problem Stacks got you covered. Double click the task and fill the *Description* field :winking_face:",
+                    "title": "Sie müssen eine breitere Beschreibung hinzufügen, kein Problem Stacks haben Sie abgedeckt. Doppelklicken Sie auf die Aufgabe und geben Sie die *Beschreibung* ein :winking_face:",
                     "content": "Lorem ipsum dolor sit amet, an enim persius molestiae sea, quo ut tation tacimates interesset, vel sumo numquam ne. Quo ut probo errem veniam, ius te causae gloriatur. Vis ea prima prompta quaerendum, dico propriae an ius, an lucilius repudiare sed. Quod unum pri no, vis delectus definitiones ei, meis tincidunt ne qui.\n\nDolor veniam molestiae pro an, ea omnesque postulant partiendo eum. Essent facilis cum ne, at mel luptatum sententiae efficiendi. Mea ludus labores an, mundi evertitur ea cum. Ne nec augue movet torquatos, no iudicabit adolescens quo.",
                     "id": "75bee757-4edf-4102-9cae-8819d546d43e",
                     "created": "2020-03-15T21:42:44.261Z",
@@ -173,7 +173,7 @@
             "id": "75c983e2-9a63-44be-bfc8-c5787f05c08e",
             "tasks": [
                 {
-                    "title": "Track time spent working on your tasks by setting an estimated period :stopwatch:",
+                    "title": "Verfolge die Arbeitszeit für Deine Aufgaben, indem Du einen geschätzten Zeitraum festlegst :stopwatch:",
                     "content": "",
                     "id": "125de40b-d84b-40bf-a36d-7ae6767ea7e2",
                     "created": "2020-03-18T22:22:31.266Z",
@@ -183,7 +183,7 @@
                     "spent": "1d 2h 10m"
                 },
                 {
-                    "title": "Change the tasks status to either *Done* or *Archived* by double clicking it and selecting one of the options from the lower right corner :gear:",
+                    "title": "Ändern Sie den Aufgabenstatus entweder in *Erledigt* oder *Archiviert*, indem Sie darauf doppelklicken und eine der Optionen in der unteren rechten Ecke auswählen :gear:",
                     "content": "",
                     "id": "49d393d5-3ea7-4d77-97f8-8e0b9c8dbecb",
                     "created": "2020-03-15T21:51:10.766Z",
@@ -191,7 +191,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Trip to Yosemite with my friends :camping:",
+                    "title": "Ausflug nach Yosemite mit Freunden :camping:",
                     "content": "",
                     "id": "yosemite",
                     "created": "2020-03-15T21:49:55.554Z",
@@ -201,7 +201,7 @@
                     "cover": true
                 },
                 {
-                    "title": "Create unlimited *Boards*, *Stacks* and *Tasks*",
+                    "title": "Erstelle unendlich *Boards*, *Stacks* und *Aufgaben*",
                     "content": "",
                     "id": "fe0f2a0b-a5c7-4542-9c8c-18421769ff47",
                     "created": "2020-03-13T13:08:34.134Z",
@@ -209,7 +209,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Do you have any *Confidential* content you dont want prying eyes to see #Your super secret goes here#? Use the custom confidential markdown syntax to hide your secrets :smiling_face_with_horns:",
+                    "title": "Hast Du *vertrauliche* Inhalte, die neugierige Blicke nicht sehen sollen #Dein Supergeheimnis geht hierher#? Verwende die benutzerdefinierte vertrauliche Markdown-Syntax, um Ihre Geheimnisse zu verbergen :smiling_face_with_horns:",
                     "content": "",
                     "id": "ef87ec80-fcb4-46ee-8fc7-757d411d1a00",
                     "created": "2020-04-15T15:20:06.401Z",
@@ -217,7 +217,7 @@
                     "archived": ""
                 },
                 {
-                    "title": "Add a map widget by entering an address or location :globe_showing_americas:",
+                    "title": "Füge ein Karten-Widget hinzu, indem Du eine Adresse oder einen Ort eingibst :globe_showing_americas:",
                     "content": "",
                     "id": "8cc1c611-cabc-4a14-89b7-0f09731806ff",
                     "created": "2020-03-13T13:08:41.429Z",
@@ -235,7 +235,7 @@
                     ]
                 },
                 {
-                    "title": "*Automatic library backup* once every 5, 10, 20, 30 and 60 *minutes*",
+                    "title": "*Automatisches Backup der Bibliothek* einmal alle 5, 10, 20, 30 and 60 *Minuten*",
                     "content": "",
                     "id": "c87f7a90-2814-4553-b54e-775c37d9ceb8",
                     "created": "2020-03-13T13:09:07.109Z",
@@ -314,13 +314,13 @@
         }
     ],
     "tags": [
-        { "id": "bugs", "title": "Bugs", "color": "#FF6C35" },
-        { "id": "doing", "title": "Doing", "color": "#92D632" },
-        { "id": "high-priority", "title": "High Priority", "color": "#FFDC00" },
-        { "id": "info-missing", "title": "Missing Info", "color": "#FF9C00" },
-        { "id": "idle", "title": "Idle", "color": "#B7C3C8" },
-        { "id": "on-hold", "title": "On Hold", "color": "#32BAF5" },
-        { "id": "complete", "title": "Complete", "color": "#00E6B2" }
+        { "id": "bugs", "title": "Fehler", "color": "#FF6C35" },
+        { "id": "doing", "title": "In Arbeit", "color": "#92D632" },
+        { "id": "high-priority", "title": "Wichtig", "color": "#FFDC00" },
+        { "id": "info-missing", "title": "Benötigt Info", "color": "#FF9C00" },
+        { "id": "idle", "title": "Pausiert", "color": "#B7C3C8" },
+        { "id": "on-hold", "title": "Wartend", "color": "#32BAF5" },
+        { "id": "complete", "title": "Erledigt", "color": "#00E6B2" }
     ],
     "archivedOrder": "archived-desc"
 }
