@@ -2,13 +2,15 @@
     "common": {
         "yes": "Si",
         "no": "No",
+        "ok": "OK",
         "bottom": "Sotto",
         "delete": "Cancella",
         "edit": "Modifica",
         "select": "Seleziona",
         "save": "Salva",
         "remaining": "Rimanente",
-        "spent": "Consumate"
+        "spent": "Consumate",
+        "days": "giorni"
     },
     "app": {
         "search": "Cerca task..."
@@ -43,7 +45,10 @@
         "total-remaining": "Totale Rimanente",
         "no-data-report": "Non ci sono abbastanza dati per presentare questo report",
         "no-tags-report": "Questa board non ha nessun tag",
-        "no-update-needed": "Nessun aggiornamento disponibile. Stai già utilizzando l'ultima versione."
+        "no-update-needed": "Nessun aggiornamento disponibile. Stai già utilizzando l'ultima versione.",
+        "earnings-overview": "Panoramica dei Guadagni",
+        "total-earnings": "Totale Guadagni",
+        "earnings-by-stacks": "Guadagni per Stack"
     },
     "stacks": {
         "add-new-task": "Aggiungi un nuovo task",
@@ -92,7 +97,9 @@
         "add-location": "Aggiungi una location",
         "mark-done": "Segna come fatto",
         "mark-todo": "Segna come da fare",
-        "due-on": "Scadenza",
+        "due-on": "Scade il",
+        "starts-on": "Inizia il",
+        "duration": "Durata del task",
         "datepicker-today": "Oggi",
         "datepicker-clear": "Pulisci",
         "datepicker-tomorrow": "Domani",
@@ -134,7 +141,11 @@
         "progress-done": "Completato",
         "untitled-task": "Task senza nome",
         "edit-task": "Modifica task",
-        "alt-tags": "Stili tag alternativi"
+        "alt-tags": "Stili tag alternativi",
+        "overwrite-hourly-fee": "Sovrascrivi la tariffa oraria di default per questo task",
+        "earnings": "Guadagno",
+        "exceeded-by": "Sforato di",
+        "profit": "Profitto"
     },
     "preferences": {
         "title": "Preferenze",
@@ -156,7 +167,13 @@
         "show-verbose-estimates": "Mostra stime dettagliate",
         "show-edit-button": "Mostra pulsante modifica",
         "default-tags-style": "Stile tags di default",
-        "dark-mode": "Dark mode"
+        "dark-mode": "Dark mode",
+        "hourly-fee": "Tariffa oraria"
+    },
+    "components": {
+        "feeinput": {
+            "hourlyfeemsg": "La tua tariffa oraria"
+        }
     },
     "menu": {
         "check-updates": "Controlla aggiornamento...",

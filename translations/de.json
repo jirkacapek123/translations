@@ -43,7 +43,10 @@
         "total-remaining": "Summe verbleibend",
         "no-data-report": "Es gibt nicht genug Daten um diesen Bericht zu erzeugen",
         "no-tags-report": "Dieses Board hat keine Schlagwörter",
-        "no-update-needed": "Keine Aktualisierung verfügbar. Sie benutzen die aktuellste Version."
+        "no-update-needed": "Keine Aktualisierung verfügbar. Sie benutzen die aktuellste Version.",
+        "earnings-overview": "Summe Verdienste",
+        "total-earnings": "Gesamteinnahmen",
+        "earnings-by-stacks": "Ergebnis nach Stack"
     },
     "stacks": {
         "add-new-task": "Aufgabe erstellen",
@@ -93,6 +96,8 @@
         "mark-done": "Als erledigt markieren",
         "mark-todo": "Als zu erledigen markieren",
         "due-on": "Fällig am",
+        "starts-on": "Beginnt am",
+        "duration": "Aufgabendauer",
         "datepicker-today": "Heute",
         "datepicker-clear": "Löschen",
         "datepicker-tomorrow": "Morgen",
@@ -134,7 +139,11 @@
         "progress-done": "Erledigt",
         "untitled-task": "Unbenannte Aufgabe",
         "edit-task": "Aufgabe bearbeiten",
-        "alt-tags": "Alternativer Schlagwort Stil"
+        "alt-tags": "Alternativer Schlagwort Stil",
+        "overwrite-hourly-fee": "Überschreiben Sie den Standardstundensatz für diese Aufgabe",
+        "earnings": "Verdienste",
+        "exceeded-by": "Überschritten von",
+        "profit": "Profitieren"
     },
     "preferences": {
         "title": "Einstellungen",
@@ -156,7 +165,8 @@
         "show-verbose-estimates": "Ausführliche Schätzungen anzeigen",
         "show-edit-button": "Schaltfläche Bearbeiten anzeigen",
         "default-tags-style": "Standard-Schlagwort-Stil",
-        "dark-mode": "Dunkler Modus"
+        "dark-mode": "Dunkler Modus",
+        "hourly-fee": "Stundengebühr"
     },
     "menu": {
         "check-updates": "Auf Aktualisierung prüfen...",

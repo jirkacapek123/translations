@@ -2,13 +2,15 @@
     "common": {
         "yes": "Да",
         "no": "Нет",
+        "ok": "OK",
         "bottom": "Снизу",
         "delete": "Удалить",
         "edit": "Редактировать",
         "select": "Выбрать",
         "save": "Сохранить",
         "remaining": "Осталось",
-        "spent": "Потрачено"
+        "spent": "Потрачено",
+        "days": "дней"
     },
     "app": {
         "search": "Найти задачу..."
@@ -43,7 +45,10 @@
         "total-remaining": "Всего осталось",
         "no-data-report": "Не хватает данных для создания отчёта",
         "no-tags-report": "На этой доске нет тегов",
-        "no-update-needed": "Нет доступных обновлений. Вы пользуетесь последней версией."
+        "no-update-needed": "Нет доступных обновлений. Вы пользуетесь последней версией.",
+        "earnings-overview": "Обзор доходов",
+        "total-earnings": "Общий доход",
+        "earnings-by-stacks": "Заработок по колонке"
     },
     "stacks": {
         "add-new-task": "Добавить новую задачу",
@@ -93,6 +98,8 @@
         "mark-done": "Отметить как выполнено",
         "mark-todo": "Отметить как в процессе",
         "due-on": "Выполнить до",
+        "starts-on": "Начинается на",
+        "duration": "Продолжительность задачи",
         "datepicker-today": "Сегодня",
         "datepicker-clear": "Очистить",
         "datepicker-tomorrow": "Завтра",
@@ -134,7 +141,11 @@
         "progress-done": "Выполнено",
         "untitled-task": "Безымянная задача",
         "edit-task": "Редактировать задачу",
-        "alt-tags": "Альтернативный стиль тегов"
+        "alt-tags": "Альтернативный стиль тегов",
+        "overwrite-hourly-fee": "Overwrite the default hourly fee for this task",
+        "earnings": "доход",
+        "exceeded-by": "Превышен",
+        "profit": "прибыль"
     },
     "preferences": {
         "title": "Настройки",
@@ -157,6 +168,11 @@
         "show-edit-button": "Показывать кнопку редактирования",
         "default-tags-style": "Стиль тегов",
         "dark-mode": "Ночной режим"
+    },
+    "components": {
+        "feeinput": {
+            "hourlyfeemsg": "Ваша почасовая оплата"
+        }
     },
     "menu": {
         "check-updates": "Проверить обновления...",

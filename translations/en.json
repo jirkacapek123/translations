@@ -2,13 +2,15 @@
     "common": {
         "yes": "Yes",
         "no": "No",
+        "ok": "OK",
         "bottom": "Bottom",
         "delete": "Delete",
         "edit": "Edit",
         "select": "Select",
         "save": "Save",
         "remaining": "Remaining",
-        "spent": "Spent"
+        "spent": "Spent",
+        "days": "days"
     },
     "app": {
         "search": "Search task..."
@@ -43,7 +45,10 @@
         "total-remaining": "Total Remaining",
         "no-data-report": "There is not enough data to render this report",
         "no-tags-report": "This board does not have any tags",
-        "no-update-needed": "No update available. You're already using the latest version."
+        "no-update-needed": "No update available. You're already using the latest version.",
+        "earnings-overview": "Earnings Overview",
+        "total-earnings": "Total Earnings",
+        "earnings-by-stacks": "Earnings by Stacks"
     },
     "stacks": {
         "add-new-task": "Add a new task",
@@ -93,6 +98,8 @@
         "mark-done": "Mark as done",
         "mark-todo": "Mark as to do",
         "due-on": "Due on",
+        "starts-on": "Starts on",
+        "duration": "Task duration",
         "datepicker-today": "Today",
         "datepicker-clear": "Clear",
         "datepicker-tomorrow": "Tomorrow",
@@ -134,7 +141,11 @@
         "progress-done": "Done",
         "untitled-task": "Untitled task",
         "edit-task": "Edit task",
-        "alt-tags": "Alternative tags style"
+        "alt-tags": "Alternative tags style",
+        "overwrite-hourly-fee": "Overwrite the default hourly fee for this task",
+        "earnings": "Earnings",
+        "exceeded-by": "Exceeded by",
+        "profit": "Profit"
     },
     "preferences": {
         "title": "Preferences",
@@ -156,7 +167,13 @@
         "show-verbose-estimates": "Show verbose estimates",
         "show-edit-button": "Show edit button",
         "default-tags-style": "Default tags style",
-        "dark-mode": "Dark mode"
+        "dark-mode": "Dark mode",
+        "hourly-fee": "Hourly fee"
+    },
+    "components": {
+        "feeinput": {
+            "hourlyfeemsg": "Your hourly fee"
+        }
     },
     "menu": {
         "check-updates": "Check for updates...",
