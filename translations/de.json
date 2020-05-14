@@ -8,7 +8,8 @@
         "select": "Auswählen",
         "save": "Speichern",
         "remaining": "Verbleibend",
-        "spent": "Verbraucht"
+        "spent": "Verbraucht",
+        "download": "Download"
     },
     "app": {
         "search": "Suche Aufgabe..."
@@ -37,6 +38,7 @@
         "count-box-doing": "In Arbeit",
         "count-box-done": "Erledigt",
         "count-box-overdue": "Überfällig",
+        "count-box-upcoming": "Bevorstehende",
         "count-box-archived": "Archiviert",
         "total-estimates": "Summe geschätzt",
         "total-spent": "Summe verbraucht",
@@ -132,6 +134,7 @@
         "add-estimated-time": "Geschätzte Zeit erfassen",
         "estimated-time": "Geschätzte Zeit",
         "set-progress": "Festlegen des Aufgabenfortschritts",
+        "task-progress": "Aufgabenfortschritt",
         "progress-idle": "Pausiert",
         "progress-analisys": "Analyse",
         "progress-doing": "In Arbeit",
@@ -143,7 +146,12 @@
         "overwrite-hourly-fee": "Überschreiben Sie den Standardstundensatz für diese Aufgabe",
         "earnings": "Verdienste",
         "exceeded-by": "Überschritten von",
-        "profit": "Profitieren"
+        "profit": "Profitieren",
+        "move-to-top": "Nach oben gehen",
+        "move-upwards": "Bewegen Sie sich nach oben",
+        "move-downwards": "Nach unten bewegen",
+        "move-to-bottom": "Gehe nach unten",
+        "delete-item": "Item löschen"
     },
     "preferences": {
         "title": "Einstellungen",

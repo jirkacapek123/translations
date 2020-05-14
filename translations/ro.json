@@ -9,7 +9,8 @@
         "save": "Salveazaă",
         "remaining": "Rămas",
         "spent": "Consumat",
-        "days": "zile"
+        "days": "zile",
+        "download": "Download"
     },
     "app": {
         "search": "Caută task..."
@@ -38,6 +39,7 @@
         "count-box-doing": "In curs",
         "count-box-done": "Terminat",
         "count-box-overdue": "Depăşit ca termen",
+        "count-box-upcoming": "Iminente",
         "count-box-archived": "Arhivate",
         "total-estimates": "Total Estimări",
         "total-spent": "Total Consumat",
@@ -133,6 +135,7 @@
         "add-estimated-time": "Adăugați timp estimat",
         "estimated-time": "Timpul estimat",
         "set-progress": "Setați progresul task-ului",
+        "task-progress": "Progres task",
         "progress-idle": "Inactiv",
         "progress-analisys": "In analiză",
         "progress-doing": "In proces de executie",
@@ -144,7 +147,12 @@
         "overwrite-hourly-fee": "Suprascrieți taxa orară implicită pentru aceast task",
         "earnings": "Câștig",
         "exceeded-by": "Depășit de",
-        "profit": "Profit"
+        "profit": "Profit",
+        "move-to-top": "Mută sus",
+        "move-upwards": "Mută în sus",
+        "move-downwards": "Mută în jos",
+        "move-to-bottom": "Mută jos",
+        "delete-item": "Sterge item-ul"
     },
     "preferences": {
         "title": "Preferințe",

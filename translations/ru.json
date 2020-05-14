@@ -10,7 +10,8 @@
         "save": "Сохранить",
         "remaining": "Осталось",
         "spent": "Потрачено",
-        "days": "дней"
+        "days": "дней",
+        "download": "Скачать"
     },
     "app": {
         "search": "Найти задачу..."
@@ -39,6 +40,7 @@
         "count-box-doing": "В процессе",
         "count-box-done": "Выполнено",
         "count-box-overdue": "Просрочено",
+        "count-box-upcoming": "предстоящий",
         "count-box-archived": "Архивировано",
         "total-estimates": "Общее время",
         "total-spent": "Всего потрачено",
@@ -134,6 +136,7 @@
         "add-estimated-time": "Добавить оставшееся время",
         "estimated-time": "Оставшееся время",
         "set-progress": "Установить прогресс по задаче",
+        "task-progress": "Выполнение задачи",
         "progress-idle": "Простаивающая",
         "progress-analisys": "Анализ",
         "progress-doing": "Выполнение",
@@ -145,7 +148,12 @@
         "overwrite-hourly-fee": "Overwrite the default hourly fee for this task",
         "earnings": "доход",
         "exceeded-by": "Превышен",
-        "profit": "прибыль"
+        "profit": "прибыль",
+        "move-to-top": "Переместить наверх",
+        "move-upwards": "Перейти к предыдущему",
+        "move-downwards": "Перейти к следующему",
+        "move-to-bottom": "Двигаться вниз",
+        "delete-item": "Удалить пункт"
     },
     "preferences": {
         "title": "Настройки",
